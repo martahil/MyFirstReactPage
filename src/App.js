@@ -56,22 +56,22 @@ const channelListData = [
 const socialListData = [
   {
     url: "https://twitch.com/maykbrito",
-    imageUrl: "/assets/twitch.svg",
+    imageUrl: "/MyFirstReactPage/assets/twitch.svg",
     alt: "Mayk Brito's Twitch",
   },
   {
     url: "https://instagram.com/maykbrito",
-    imageUrl: "/assets/instagram.svg",
+    imageUrl: "/MyFirstReactPage/assets/instagram.svg",
     alt: " Mayk Brito's Instagram",
   },
   {
     url: "https:///twitter.com/maykbrito",
-    imageUrl: "/assets/twitter.svg",
+    imageUrl: "/MyFirstReactPage/assets/twitter.svg",
     alt: "Mayk Brito's Twitter",
   },
   {
     url: "https://youtube.com/maykbrito",
-    imageUrl: "/assets/youtube.svg",
+    imageUrl: "/MyFirstReactPage/assets/youtube.svg",
     alt: "Mayk Brito's Youtube Channel",
   },
 ];
